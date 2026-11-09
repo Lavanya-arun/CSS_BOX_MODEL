@@ -1,0 +1,35 @@
+.{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100px;
+}
+.container{
+border: 2px solid red;
+width: 400px;
+height: 400px;
+margin-left: 50px;
+margin-top: 50px;
+position:relative;
+}
+.textbox{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    colour: yellow;
+}
+.textbox1{
+    background-color: red;
+}
+.textbox2{
+    background-color: blue;
+}
+.textbox3{
+    background-color: green;
+}
+.textbox4{
+    background-color: greenyellow;
+    position: sticky;
+    top: 50px;
+}
